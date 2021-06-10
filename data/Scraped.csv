@@ -1,0 +1,57 @@
+,Unnamed: 0,Company Name,Location,Datum,Detail,Status Rocket,Mission Cost,Status Mission
+0,0,Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Tue Dec 29, 2020 16:42 UTC","Soyuz ST-A/Fregat-M | CSO-2",StatusActive,30.0 ,Success
+1,1,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sun Dec 27, 2020 15:44 UTC","Long March 4C | Yaogan-33(R) & Weina 2",StatusActive,64.68,Success
+2,2,CASC,"LC-201, Wenchang Satellite Launch Center, China","Tue Dec 22, 2020 04:37 UTC","Long March 8 | XJY-7, Haisi-1 & Others",StatusActive,27,Success
+3,3,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sat Dec 19, 2020 14:00 UTC","Falcon 9 Block 5 | NROL-108 LZ-1",StatusActive,50,Success
+4,4,Starsem,"Site 1S, Vostochny Cosmodrome, Russia","Fri Dec 18, 2020 12:26 UTC","Soyuz 2.1b/Fregat | OneWeb #4",StatusActive,25,Success
+5,5,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Thu Dec 17, 2020 10:09 UTC","PSLV-XL | CMS-01",StatusActive,31,Success
+6,6,Astra,"LP-3B,Pacific Spaceport Complex, Kodiak, Alaska, USA","Tue Dec 15, 2020 20:55 UTC","Rocket 3 | Rocket 3.2 Orbital Launch Attempt",StatusActive,2.5,Failure
+7,7,Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Tue Dec 15, 2020 10:09 UTC","Electron/Curie | The Owl’s Night Begins",StatusActive,7.5,Success
+8,8,VKS RF,"Site 35/1, Plesetsk Cosmodrome, Russia","Mon Dec 14, 2020 05:50 UTC","Angara A5/Briz-M | MGM n°2",StatusActive,100,Success
+9,9,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sun Dec 13, 2020 17:30 UTC","Falcon 9 Block 5 | SXM-7 JRTI",StatusActive,50,Success
+10,10,Virgin Galactic,"VMS Eve, Spaceport America, New Mexico, USA","Sat Dec 12, 2020 16:19 UTC","SpaceShipTwo | VF-02",StatusActive,,Partial Failure
+11,11,ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA","Fri Dec 11, 2020 01:09 UTC","Delta IV Heavy | NROL-44",StatusActive,5.3,Success
+12,12,SpaceX,"Suborbital Pad A, Starbase, Texas, USA","Wed Dec 09, 2020 22:45 UTC","Starship Prototype | 12.5-Kilometer Test Flight Suborbital Texas LZ-A",StatusActive,,Partial Failure
+13,13,CASC,"Xichang Satellite Launch Center, China","Wed Dec 09, 2020 20:14 UTC","Long March 11 | GECAM 1 & 2",StatusActive,5.3,Success
+14,14,SpaceX,"LC-39A,Kennedy Space Center, Florida, USA","Sun Dec 06, 2020 16:17 UTC","Falcon 9 Block 5 | CRS-21 OCISLY",StatusActive,50,Success
+15,15,CASC,"LC-3,Xichang Satellite Launch Center, China","Sun Dec 06, 2020 03:58 UTC","Long March 3B/E | Gaofen 14",StatusActive,29.15,Success
+16,16,VKS RF,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu Dec 03, 2020 01:14 UTC","Soyuz 2.1b/Fregat-M | Goniets-M n°30L to 32L & Cosmos 2548",StatusActive,25,Success
+17,17,Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Wed Dec 02, 2020 01:33 UTC","Soyuz ST-A/Fregat-M | Falcon Eye 2",StatusActive,30,Success
+18,18,MHI,"LA-Y1, Tanegashima Space Center, Japan","Sun Nov 29, 2020 07:25 UTC","H-IIA 202 | JDRS-1",StatusActive,90,Success
+19,19,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Wed Nov 25, 2020 02:13 UTC","Falcon 9 Block 5 | Starlink V1 L15 OCISLY",StatusActive,50,Success
+20,20,CASC,"LC-101, Wenchang Satellite Launch Center, China","Mon Nov 23, 2020 20:30 UTC","Long March 5 | Chang'e 5",StatusActive,,Success
+21,21,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Sat Nov 21, 2020 17:17 UTC","Falcon 9 Block 5 | Sentinel-6A Michael Freilich LZ-4",StatusActive,50,Success
+22,22,Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Fri Nov 20, 2020 02:20 UTC","Electron/Curie | Return To Sender Splashdown",StatusActive,7.5,Success
+23,23,Arianespace,"ELV-1, Guiana Space Centre, French Guiana, France","Tue Nov 17, 2020 01:52 UTC","Vega | Taranis & Seosat",StatusActive,37,Failure
+24,24,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Mon Nov 16, 2020 00:27 UTC","Falcon 9 Block 5 | SpaceX Crew-1 JRTI",StatusActive,50,Success
+25,25,ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Fri Nov 13, 2020 22:32 UTC","Atlas V 531 | NROL-101",StatusActive,140,Success
+26,26,CASC,"LC-2, Xichang Satellite Launch Center, China","Thu Nov 12, 2020 15:59 UTC","Long March 3B/E | Tiantong-1 02",StatusActive,29.15,Success
+27,27,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Sat Nov 07, 2020 09:41 UTC","PSLV-DL | EOS-01 & Rideshares",StatusActive,,Success
+28,28,Galactic Energy,"Site 95, Jiuquan Satellite Launch Center, China","Sat Nov 07, 2020 07:12 UTC","Ceres-1 | I Believe I Can Fly",StatusActive,4.9,Success
+29,29,CASC,"LC-16, Taiyuan Satellite Launch Center, China","Fri Nov 06, 2020 03:19 UTC","Long March 6 | ÑuSat 9 to 18 & Others",StatusActive,19,Success
+30,30,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Thu Nov 05, 2020 23:24 UTC","Falcon 9 Block 5 | GPS III-4 OCISLY",StatusActive,50,Success
+31,31,Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Wed Oct 28, 2020 21:21 UTC","Electron/Curie | In Focus",StatusActive,7.5,Success
+32,32,CASC,"LC-3,Xichang Satellite Launch Center, China","Mon Oct 26, 2020 15:19 UTC","Long March 2C | Yaogan-30 07 & Apocalypse-6",StatusActive,30.8,Success
+33,33,VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Sun Oct 25, 2020 19:08 UTC","Soyuz 2.1b/Fregat-M | Cosmos 2547",StatusActive,25,Success
+34,34,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sat Oct 24, 2020 15:31 UTC","Falcon 9 Block 5 | Starlink V1 L14 JRTI",StatusActive,50,Success
+35,35,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sun Oct 18, 2020 12:25 UTC","Falcon 9 Block 5 | Starlink V1 L13 OCISLY",StatusActive,50,Success
+36,36,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Oct 14, 2020 05:45 UTC","Soyuz 2.1a | Soyuz MS-17",StatusActive,17.42,Success
+37,37,Blue Origin,"Launch Site One, West Texas, Texas, USA","Tue Oct 13, 2020 13:38 UTC","New Shepard | NS-13 Suborbital West Texas",StatusActive,,Success
+38,38,CASC,"LC-2, Xichang Satellite Launch Center, China","Sun Oct 11, 2020 16:57 UTC","Long March 3B/E | Gaofen-13",StatusActive,29.15,Success
+39,39,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Tue Oct 06, 2020 11:29 UTC","Falcon 9 Block 5 | Starlink V1 L12 OCISLY",StatusActive,50,Success
+40,40,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Sat Oct 03, 2020 01:16 UTC","Antares 230+ | Cygnus CRS NG-14",StatusActive,85,Success
+41,41,VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Mon Sep 28, 2020 11:20 UTC","Soyuz 2.1b/Fregat | Goniets-M n°27L to 29L & Others",StatusActive,25,Success
+42,42,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Sun Sep 27, 2020 03:23 UTC","Long March 4B | Huanjing-2A & 2B",StatusActive,64.68,Success
+43,43,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Sep 21, 2020 05:40 UTC","Long March 4B | Haiyang 2C",StatusActive,64.68,Success
+44,44,CASC,"DeBo 3 Barge, Yellow Sea","Tue Sep 15, 2020 01:23 UTC","Long March 11H | Jilin-1 High Resolution 03",StatusActive,5.3,Success
+45,45,ExPace,"Site 95, Jiuquan Satellite Launch Center, China","Sat Sep 12, 2020 05:02 UTC","Kuaizhou 1A | Jilin-1 High Resolution 02C",StatusActive,5.8,Failure
+46,46,Astra,"LP-3B, Pacific Spaceport Complex, Kodiak, Alaska, USA","Sat Sep 12, 2020 03:19 UTC","Rocket 3 | Rocket 3.1 Orbital Launch Attempt",StatusActive,2.5,Failure
+47,47,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Mon Sep 07, 2020 05:57 UTC","Long March 4B | Gaofen-11 02",StatusActive,64.68,Success
+48,48,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China","Fri Sep 04, 2020 07:30 UTC","Long March 2F/T | Experimental Spaceplane (CSSHQ)",StatusActive,,Success
+49,49,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Sep 03, 2020 12:46 UTC","Falcon 9 Block 5 | Starlink V1 L11 OCISLY",StatusActive,50,Success
+50,50,Arianespace,"ELV-1,Guiana Space Centre, French Guiana, France","Thu Sep 03, 2020 01:51 UTC","Vega | SSMS n°1 PoC",StatusActive,37,Success
+51,51,Rocket Lab,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Mon Aug 31, 2020 03:05 UTC","Electron/Photon | I Can’t Believe It’s Not Optical",StatusActive,,Success
+52,52,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Sun Aug 30, 2020 23:18 UTC","Falcon 9 Block 5 | SAOCOM 1B & Rideshares LZ-1",StatusActive,50,Success
+53,53,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sun Aug 23, 2020 02:27 UTC","Long March 2D | Gaofen-9 05, Tiantuo-5 & MTS",StatusActive,29.75,Success
+54,54,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA","Tue Aug 18, 2020 14:31 UTC","Falcon 9 Block 5 | Starlink V1 L10 & SkySat 19 to 21 OCISLY",StatusActive,50,Success
+55,55,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Aug 15, 2020 22:04 UTC","Ariane 5 ECA | BSat 4b & Galaxy 30, MEV-2",StatusActive,200,Success
